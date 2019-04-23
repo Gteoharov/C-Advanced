@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CompanyRoster
+﻿namespace CompanyRoster
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class MainClass
     {
         public static void Main(string[] args)
@@ -14,7 +14,8 @@ namespace CompanyRoster
 
             for (int i = 0; i < n; i++)
             {
-                string[] employeeInfo = Console.ReadLine().Split();
+                string[] employeeInfo = Console.ReadLine().Split(
+                    new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
                 string employeeName = employeeInfo[0];
                 double employeeSalary = double.Parse(employeeInfo[1]);

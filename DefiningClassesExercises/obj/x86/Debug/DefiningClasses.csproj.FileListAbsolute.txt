@@ -3,3 +3,9 @@
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClasses.csproj.CoreCompileInputs.cache
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClassesExercises.exe
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClassesExercises.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/bin/Debug/DefiningClassesExercises.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/bin/Debug/DefiningClassesExercises.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClasses.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClasses.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClassesExercises.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/DefiningClassesExercises/obj/x86/Debug/DefiningClassesExercises.pdb

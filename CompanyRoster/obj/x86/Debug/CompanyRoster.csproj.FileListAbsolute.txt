@@ -4,3 +4,9 @@
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.csproj.CoreCompileInputs.cache
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.exe
 /Users/teoharov/Developer/C#/C# Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/obj/x86/Debug/CompanyRoster.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/bin/Debug/CompanyRoster.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CompanyRoster/bin/Debug/CompanyRoster.pdb

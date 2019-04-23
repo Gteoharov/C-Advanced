@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/bin/Debug/CarSalesman.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/bin/Debug/CarSalesman.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/obj/x86/Debug/CarSalesman.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/obj/x86/Debug/CarSalesman.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/obj/x86/Debug/CarSalesman.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/CarSalesman/obj/x86/Debug/CarSalesman.csprojAssemblyReference.cache
