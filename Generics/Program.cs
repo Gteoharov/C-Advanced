@@ -11,9 +11,14 @@ namespace Generics
             box.Add(2);
             box.Add(3);
             Console.WriteLine(box.Remove());
-            box.Add(4);
-            box.Add(5);
-            Console.WriteLine(box.Remove());
+
+            string[] strings = ArrayCreator.Create(5, "Peshko");
+            int[] integers = ArrayCreator.Create(2, 3);
+
+            for (int i = 0; i < strings.Length; i++)
+            {
+                Console.WriteLine(strings[i]);
+            }
         }
     }
 }
