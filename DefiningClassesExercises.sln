@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyRoster", "CompanyRos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{D2EC037D-7D89-497B-BE5D-8CF16DD3216A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{D2EC037D-7D89-497B-BE5D-8CF16DD3216A}.Debug|x86.Build.0 = Debug|x86
 		{D2EC037D-7D89-497B-BE5D-8CF16DD3216A}.Release|x86.ActiveCfg = Release|x86
 		{D2EC037D-7D89-497B-BE5D-8CF16DD3216A}.Release|x86.Build.0 = Release|x86
+		{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}.Debug|x86.ActiveCfg = Debug|x86
+		{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}.Debug|x86.Build.0 = Debug|x86
+		{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}.Release|x86.ActiveCfg = Release|x86
+		{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
