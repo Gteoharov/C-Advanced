@@ -1,0 +1,5 @@
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/Froggy/obj/x86/Debug/Froggy.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/Froggy/bin/Debug/Froggy.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/Froggy/bin/Debug/Froggy.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/Froggy/obj/x86/Debug/Froggy.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/Froggy/obj/x86/Debug/Froggy.pdb

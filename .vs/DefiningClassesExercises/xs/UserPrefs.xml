@@ -1,22 +1,21 @@
-﻿<Properties StartupConfiguration="{BA33DFB7-830D-4ABF-9924-7ED9891DF119}|Default">
+﻿<Properties StartupConfiguration="{B055982C-B55A-4D25-81AC-2EFE3E6073DC}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CompanyRoster PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InteratorsAndComparators/Stack.cs">
+  <MonoDevelop.Ide.ItemProperties.Froggy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Froggy/Program.cs">
     <Files>
-      <File FileName="Generics/Program.cs" Line="38" Column="43" />
-      <File FileName="Generics/Box.cs" Line="24" Column="1" />
-      <File FileName="InteratorsAndComparators/Program.cs" Line="41" Column="51" />
-      <File FileName="InteratorsAndComparators/ListyIterator.cs" Line="30" Column="45" />
-      <File FileName="InteratorsAndComparators/Stack.cs" Line="8" Column="10" />
+      <File FileName="Froggy/Program.cs" Line="11" Column="34" />
+      <File FileName="Froggy/Lake.cs" Line="26" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClassesExercises" expanded="True">
-            <Node name="InteratorsAndComparators" expanded="True">
-              <Node name="Stack.cs" selected="True" />
+            <Node name="Froggy" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Generics" expanded="True" />
           </Node>
         </State>
       </Pad>

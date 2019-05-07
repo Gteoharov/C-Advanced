@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteratorsAndComparators", "InteratorsAndComparators\InteratorsAndComparators.csproj", "{BA33DFB7-830D-4ABF-9924-7ED9891DF119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Froggy", "Froggy\Froggy.csproj", "{B055982C-B55A-4D25-81AC-2EFE3E6073DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{BA33DFB7-830D-4ABF-9924-7ED9891DF119}.Debug|x86.Build.0 = Debug|x86
 		{BA33DFB7-830D-4ABF-9924-7ED9891DF119}.Release|x86.ActiveCfg = Release|x86
 		{BA33DFB7-830D-4ABF-9924-7ED9891DF119}.Release|x86.Build.0 = Release|x86
+		{B055982C-B55A-4D25-81AC-2EFE3E6073DC}.Debug|x86.ActiveCfg = Debug|x86
+		{B055982C-B55A-4D25-81AC-2EFE3E6073DC}.Debug|x86.Build.0 = Debug|x86
+		{B055982C-B55A-4D25-81AC-2EFE3E6073DC}.Release|x86.ActiveCfg = Release|x86
+		{B055982C-B55A-4D25-81AC-2EFE3E6073DC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
