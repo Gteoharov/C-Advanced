@@ -2,17 +2,17 @@
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CompanyRoster PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Box.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
     <Files>
-      <File FileName="Generics/Program.cs" Line="25" Column="1" />
-      <File FileName="Generics/Box.cs" Line="25" Column="10" />
+      <File FileName="Generics/Program.cs" Line="38" Column="43" />
+      <File FileName="Generics/Box.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClassesExercises" expanded="True">
             <Node name="Generics" expanded="True">
-              <Node name="Box.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

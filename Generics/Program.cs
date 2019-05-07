@@ -35,7 +35,7 @@ namespace Generics
 
             //Swap(box.Data, firstIndex, secoundIndex);
 
-            //Console.WriteLine(box);
+            //Console.WriteLine(box);kkkkk
 
             string element = Console.ReadLine();
 
