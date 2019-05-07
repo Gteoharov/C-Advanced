@@ -1,18 +1,20 @@
-﻿<Properties StartupConfiguration="{9E827A5D-DCCB-4426-814A-B37F9FAB3CFB}|Default">
+﻿<Properties StartupConfiguration="{BA33DFB7-830D-4ABF-9924-7ED9891DF119}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CompanyRoster PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InteratorsAndComparators/ListyIterator.cs">
     <Files>
       <File FileName="Generics/Program.cs" Line="38" Column="43" />
       <File FileName="Generics/Box.cs" Line="24" Column="1" />
+      <File FileName="InteratorsAndComparators/Program.cs" Line="13" Column="1" />
+      <File FileName="InteratorsAndComparators/ListyIterator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClassesExercises" expanded="True">
-            <Node name="Generics" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="InteratorsAndComparators" expanded="True">
+              <Node name="ListyIterator.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,6 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CarSalesman PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InteratorsAndComparators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

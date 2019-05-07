@@ -1,0 +1,5 @@
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/InteratorsAndComparators/bin/Debug/InteratorsAndComparators.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/InteratorsAndComparators/bin/Debug/InteratorsAndComparators.pdb
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/InteratorsAndComparators/obj/x86/Debug/InteratorsAndComparators.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/InteratorsAndComparators/obj/x86/Debug/InteratorsAndComparators.exe
+/Users/teoharov/Developer/C#/C#Advanced/Homeworks/DefiningClassesExercises/InteratorsAndComparators/obj/x86/Debug/InteratorsAndComparators.pdb
