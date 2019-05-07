@@ -2,19 +2,20 @@
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CompanyRoster PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InteratorsAndComparators/ListyIterator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InteratorsAndComparators/Stack.cs">
     <Files>
       <File FileName="Generics/Program.cs" Line="38" Column="43" />
       <File FileName="Generics/Box.cs" Line="24" Column="1" />
-      <File FileName="InteratorsAndComparators/Program.cs" Line="13" Column="1" />
-      <File FileName="InteratorsAndComparators/ListyIterator.cs" Line="1" Column="1" />
+      <File FileName="InteratorsAndComparators/Program.cs" Line="41" Column="51" />
+      <File FileName="InteratorsAndComparators/ListyIterator.cs" Line="30" Column="45" />
+      <File FileName="InteratorsAndComparators/Stack.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClassesExercises" expanded="True">
             <Node name="InteratorsAndComparators" expanded="True">
-              <Node name="ListyIterator.cs" selected="True" />
+              <Node name="Stack.cs" selected="True" />
             </Node>
           </Node>
         </State>

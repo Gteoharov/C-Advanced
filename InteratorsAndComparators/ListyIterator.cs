@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace InteratorsAndComparators
 {
-    public class ListyIterator<T>
+    public class ListyIterator<T> : IEnumerable<T>
     {
         private List<T> data;
         private int index;
@@ -35,7 +36,22 @@ namespace InteratorsAndComparators
 
         public string Print()
         {
+            if (this.data.Count == 0)
+            {
+                return "Invalid operations";
+            }
+
             return this.data[index].ToString();
         }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < this.data.Count; i++)
+            {
+                yield return this.data[i]; 
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
     }
 }
