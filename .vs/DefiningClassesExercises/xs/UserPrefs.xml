@@ -1,21 +1,21 @@
-﻿<Properties StartupConfiguration="{B055982C-B55A-4D25-81AC-2EFE3E6073DC}|Default">
+﻿<Properties StartupConfiguration="{FAB82982-CA9A-4243-96D4-7467872613DA}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CompanyRoster PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Froggy PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Froggy/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComparingObjects/Person.cs">
     <Files>
-      <File FileName="Froggy/Program.cs" Line="11" Column="34" />
-      <File FileName="Froggy/Lake.cs" Line="26" Column="50" />
+      <File FileName="Froggy/Lake.cs" Line="34" Column="6" />
+      <File FileName="ComparingObjects/Program.cs" Line="13" Column="1" />
+      <File FileName="ComparingObjects/Person.cs" Line="6" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClassesExercises" expanded="True">
-            <Node name="Froggy" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="ComparingObjects" expanded="True">
+              <Node name="Person.cs" selected="True" />
             </Node>
-            <Node name="Generics" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,6 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CarSalesman PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ComparingObjects FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InteratorsAndComparators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
